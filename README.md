@@ -41,6 +41,8 @@ The volume resets every 24 hours, ensuring daily recalibration.
 
 ## 🧩 Smart Contract Overview
 
+Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+
 | Function | Description |
 |-----------|--------------|
 | `initialize()` | Sets total supply and initial price for the deployer. |
